@@ -3,14 +3,13 @@ using System.Collections.Generic;
 using System.Reflection;
 using System.Linq;
 using Buttplug.Client;
-using Buttplug.Core;
 using Buttplug.Client.Connectors.WebsocketConnector;
 using PlayHooky;
 using Buttplug.Core.Messages;
 using System.Threading.Tasks;
 
 // The title of your mod, as displayed in menus
-[assembly: AssemblyTitle("DuckGame Buttplug Client")]
+[assembly: AssemblyTitle("DGButtPlugin")]
 
 // The author of the mod
 [assembly: AssemblyCompany("Bytewave")]

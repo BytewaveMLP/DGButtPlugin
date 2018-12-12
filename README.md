@@ -1,4 +1,4 @@
-# DGBP
+# DGButtPlugin
 
 > A Duck Game client for the Buttplug protocol... seriously.
 
