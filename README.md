@@ -14,7 +14,7 @@ Every time you win, your vibrator power drops by 20%. Every time someone else wi
 
 ## How do I use it?
 
-1. Install the mod. This can be done by downloading a copy from the [Releases](https://github.com/BytewaveMLP/DGBP/releases) page and extracting the contents to a folder called `DGBP` in `%USERPROFILE/Documents/DuckGame/Mods`. Workshop publishing may come later, but for now, I'll hold off from this for fear of violating the Steam Subscriber Agreement or something.
+1. Install the mod. This can be done by downloading a copy from the [Releases](https://github.com/BytewaveMLP/DGBP/releases) page and extracting the contents to a folder called `DGButtPlugin` in `%USERPROFILE/Documents/DuckGame/Mods`. Workshop publishing may come later, but for now, I'll hold off from this for fear of violating the Steam Subscriber Agreement or something.
 2. Install the [Buttplug Windows Suite](https://github.com/buttplugio/buttplug-windows-suite) and run "Buttplug Server." Hit "Stop" in the UI, change the port to `6969`, disable "SSL/TLS," and press "Start."
 3. Turn on or otherwise power your toy.
 4. Launch Duck Game. In the log panel of Buttplug Server, you should see your toy detected as the game starts. If you don't see this, check to make sure your toy is supported by Buttplug.
